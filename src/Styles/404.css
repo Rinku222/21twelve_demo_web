@@ -1,0 +1,20 @@
+.error_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.home_button {
+  padding: 10px;
+  background: var(--orange);
+  border: none;
+  outline: none;
+  color:var(--white);
+  font-size: 1em;
+  margin-top: 20px;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 4px;
+}

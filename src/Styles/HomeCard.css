@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    justify-content:flex-start;
+    flex-direction: row;
+    color:var(--light-grey);
+}
+
+.card-text{
+    font-size:18px ;
+}
+
+.Home-card {
+height: 100%;
+cursor: pointer;
+border-radius:10px ;
+}
+
+.Home-card1 {
+  padding: 10px;
+}
+
+.Name-Container{
+font-weight: bold;
+margin-bottom: 10px;
+color: var(--light-purple);
+}
+
+.address{
+    margin-top: 10px;
+    color: var(--light-grey);
+    font-size: 18px;
+}
+
+

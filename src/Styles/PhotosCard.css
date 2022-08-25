@@ -1,0 +1,53 @@
+.container{
+height: 100%;
+cursor: pointer;
+border-radius:10px;
+}
+
+.container1{
+padding: 10px
+}
+
+.image-container {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.image {
+width: 100%;
+}
+
+.item-container{
+    margin-left: 10px !important;
+}
+
+.image-container{
+display: flex;
+justify-content:space-between;
+flex-direction: row;
+}
+.title-text{
+font-weight: bold;
+}
+
+.title-container {
+display: flex;
+gap: 0px 5px;
+}
+
+.url{
+cursor: pointer;
+}
+
+.url-container{
+display: flex;
+gap: 0px 5px;
+overflow: hidden;
+}
+
+
+
+
+
+

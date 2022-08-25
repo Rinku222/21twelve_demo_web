@@ -1,0 +1,22 @@
+.Album-Card-Container{
+    cursor: pointer;
+    margin: 10px;
+    width: 150px;
+}
+
+.image-card{
+    width: 100%;
+    height: 100%;
+}
+
+.title{
+text-align: center;
+height: 50px;
+overflow: hidden;
+}
+
+.image-div{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
